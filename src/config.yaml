@@ -1,22 +1,22 @@
 site:
-  name: Assemblée Virtuelle
-  site: 'https://blog.assemblee-virtuelle.org'
+  name: Transiscapade
+  site: 'https://transiscapa.de'
   base: '/'
   trailingSlash: false
 
-  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+  googleSiteVerificationId: 
 
 # Default SEO metadata
 metadata:
   title:
-    default: Assemblée Virtuelle
-    template: '%s — Assemblée Virtuelle'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: Transiscapade
+    template: '%s — Transiscapade'
+  description: "\U0001F680 Bienvenu sur le site de Transiscapade !"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: Assemblée Virtuelle
+    site_name: Transiscapade
     images:
       - url: '~/assets/images/default.png'
         width: 1200
