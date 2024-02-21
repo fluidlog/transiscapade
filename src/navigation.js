@@ -49,7 +49,7 @@ export const headerData = {
       ],
     },
   ],
-  actions: [{ text: 'Participez', href: 'https://fr.tipeee.com/transiscapade/', target: '_blank' }],
+  actions: [{ text: 'Soutenez le projet', href: 'https://fr.tipeee.com/transiscapade/', target: '_blank' }],
 };
 
 export const footerData = {
@@ -59,6 +59,17 @@ export const footerData = {
       links: [
         { text: 'Financement participatif', href: 'https://fr.tipeee.com/transiscapade/' },
         { text: 'Blog', href: '/blog' },
+      ],
+    },
+    {
+      title: 'Projets portés',
+      links: [
+        { text: 'Transiscope', href: 'https://transiscope.org/' },
+        { text: 'Assemblée virtuelle', href: 'https://virtual-assembly.org/' },
+        { text: 'Vhélio', href: 'https://vhelio.org' },
+        { text: 'Low-tech lab', href: 'https://lowtechlab.org/' },
+        { text: 'Hameaux légers', href: 'https://hameaux-legers.org/' },
+        { text: 'Monnaie libre', href: 'https://monnaie-libre.fr/' },
       ],
     },
     {
