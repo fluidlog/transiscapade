@@ -6,20 +6,12 @@ export const headerData = {
       text: 'Le Projet',
       links: [
         {
+          text: 'Quoi ?',
+          href: getPermalink(),
+        },
+        {
           text: 'Qui ?',
           href: getPermalink('/accueil/qui'),
-        },
-        {
-          text: 'Pourquoi ?',
-          href: getPermalink('/accueil/pourquoi'),
-        },
-        {
-          text: 'Quand ?',
-          href: getPermalink('/accueil/quand'),
-        },
-        {
-          text: 'Ou ?',
-          href: getPermalink('/accueil/ou'),
         },
       ],
     },
@@ -28,23 +20,7 @@ export const headerData = {
       links: [
         {
           text: 'Blog List',
-          href: getBlogPermalink(),
-        },
-        {
-          text: 'Article',
-          href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
-        },
-        {
-          text: 'Article (with MDX)',
-          href: getPermalink('markdown-elements-demo-post', 'post'),
-        },
-        {
-          text: 'Category Page',
-          href: getPermalink('tutorials', 'category'),
-        },
-        {
-          text: 'Tag Page',
-          href: getPermalink('astro', 'tag'),
+          href: getPermalink('/accueil/qui'),
         },
       ],
     },
