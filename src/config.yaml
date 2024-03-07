@@ -11,7 +11,7 @@ metadata:
   title:
     default: Transiscapade
     template: '%s — Transiscapade'
-  description: "\U0001F680 Bienvenu sur le site de Transiscapade !"
+  description: "\U0001F680 Bienvenu sur le site de la Transiscapade !"
   robots:
     index: true
     follow: true
@@ -22,10 +22,6 @@ metadata:
         width: 1200
         height: 628
     type: website
-  twitter:
-    handle: '@onwidget'
-    site: '@onwidget'
-    cardType: summary_large_image
 
 i18n:
   language: en

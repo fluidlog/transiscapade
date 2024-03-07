@@ -38,7 +38,7 @@ export const footerData = {
       ],
     },
     {
-      title: 'Projets portés',
+      title: 'Projets transis-portés',
       links: [
         { text: 'Transiscope', href: 'https://transiscope.org/' },
         { text: 'Assemblée virtuelle', href: 'https://virtual-assembly.org/' },
