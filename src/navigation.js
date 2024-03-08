@@ -15,15 +15,6 @@ export const headerData = {
         },
       ],
     },
-    {
-      text: 'Blog',
-      links: [
-        {
-          text: 'Blog List',
-          href: getPermalink('/accueil/qui'),
-        },
-      ],
-    },
   ],
   actions: [{ text: 'Soutenez le projet', href: 'https://fr.tipeee.com/transiscapade/', target: '_blank' }],
 };
