@@ -13,7 +13,7 @@ import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
 
 const metadata = {
-  title: "Transiscapade, l'escapade au coeur des territoires pour découvrir les alternatives inspirantes pour un monde plus soutenable",
+  title: "Transiscapade, l'escapade au coeur de la transition",
   ignoreTitleTemplate: true,
 };
 ---
@@ -30,7 +30,20 @@ const metadata = {
         target: '_blank',
         icon: 'tabler:moneybag',
       },
-      { text: 'En savoir plus', href: '/accueil/qui' },
+      { 
+        variant: 'primary', 
+        text: 'Voir les vidéos', 
+        href: 'https://www.youtube.com/@Transiscapade-rm8es',
+        target: '_blank',
+        icon: 'tabler:brand-youtube',
+      },
+      { 
+        variant: 'primary', 
+        text: 'Page Facebook', 
+        href: 'https://www.facebook.com/profile.php?id=61556861211105',
+        target: '_blank',
+        icon: 'tabler:brand-facebook',
+      },
     ]}
   >
     <Fragment slot="title">
