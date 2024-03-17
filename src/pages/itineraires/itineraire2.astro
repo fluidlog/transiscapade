@@ -1,0 +1,74 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+
+import Header from '~/components/widgets/Header.astro';
+import Hero2 from '~/components/widgets/Hero2.astro';
+import Features from '~/components/widgets/Features.astro';
+import Steps2 from '~/components/widgets/Steps2.astro';
+import Content from '~/components/widgets/Content.astro';
+import Pricing from '~/components/widgets/Pricing.astro';
+
+import { headerData } from '~/navigation';
+import FAQs from '~/components/widgets/FAQs.astro';
+import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
+
+const metadata = {
+  title: 'SaaS Landing Page',
+};
+---
+
+<Layout metadata={metadata}>
+  <Fragment slot="header">
+    <Header
+      {...headerData}
+      actions={[
+        {
+          variant: 'primary',
+          text: 'Soutenez le projet',
+          href: 'https://fr.tipeee.com/transiscapade',
+        },
+        {
+          variant: 'primary',
+          text: 'Facebook',
+          href: 'https://www.facebook.com/profile.php?id=61556861211105',
+        },
+        {
+          variant: 'primary',
+          text: 'Vidéos',
+          href: 'https://www.youtube.com/@Transiscapade-rm8es',
+        },
+      ]}
+      isSticky
+    />
+  </Fragment>
+
+  <!-- Hero2 Widget ******************* -->
+
+  <Hero2
+    tagline="Itinéraire"
+    actions={[
+      { variant: 'primary', target: '_blank', text: 'Soutenez le projet', href: 'https://fr.tipeee.com/transiscapade' },
+      { text: 'Facebook', href: 'https://www.facebook.com/profile.php?id=61556861211105' },
+      { text: 'Vidéos', href: 'https://www.youtube.com/@Transiscapade-rm8es' },
+    ]}
+    image={{ src: '~/assets/images/lemans-lyon.jpg', alt: 'Yannick sur son vhélio' }}
+  >
+    <Fragment slot="title">
+      Lyon > Marseille
+    </Fragment>
+
+    <Fragment slot="subtitle">
+    (Mars 2024)
+<br />- Lundi 18 : Lyon > Givors > Vienne (38km)
+<br />- Mardi 19 : Vienne > Andance (44km)
+<br />- Mercredi 20 : Andance > Valence (47km)
+<br />- jeudi 21 : Valence > Crest (33km)
+<br />- vendredi 22 : Crest > Montélimar (36km)
+<br />- samedi 23 : Montélimar > Bourg Saint andeol (27km)
+<br />- dimanche 24 : Bourg Saint Andeol > Avignon (65 km)
+<br />- lundi 25 : Avignon > Eyragues (25 km)
+<br />- Mardi 26 : Eyragues > Salon (43 km)
+<br />- Mercredi 27 : Salon > Aix (34 km)
+<br />- Jeudi 28 : Aix > Marseille (38 km)
+    </Fragment>
+  </Hero2>

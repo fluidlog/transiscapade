@@ -15,8 +15,23 @@ export const headerData = {
         },
       ],
     },
+    {
+      text: 'Les itinéraires',
+      links: [
+        {
+          text: 'Le Mans > Lyon',
+          href: getPermalink('/itineraires/itineraire1'),
+        },
+        {
+          text: 'Lyon > Marseille',
+          href: getPermalink('/itineraires/itineraire2'),
+        },
+      ],
+    },
   ],
-  actions: [{ text: 'Soutenez le projet', href: 'https://fr.tipeee.com/transiscapade/', target: '_blank' }],
+  actions: [{ text: 'Vidéos', href: 'https://www.youtube.com/@Transiscapade-rm8es', target: '_blank' }, 
+  { text: 'Soutenez le projet', href: 'https://fr.tipeee.com/transiscapade/', target: '_blank' }
+],
 };
 
 export const footerData = {
@@ -63,7 +78,7 @@ export const footerData = {
   socialLinks: [
     { ariaLabel: 'youtube', icon: 'tabler:brand-youtube', href: 'https://www.youtube.com/@Transiscapade-rm8es', target: '_blank' },
     { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/profile.php?id=61556861211105', target: '_blank' },
-    { ariaLabel: 'Facebook', icon: 'tabler:moneybag', href: 'https://fr.tipeee.com/transiscapade', target: '_blank' },
+    { ariaLabel: 'Financement participatif', icon: 'tabler:moneybag', href: 'https://fr.tipeee.com/transiscapade', target: '_blank' },
   ],
   footNote: `
     <span class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm bg-[url(https://onwidget.com/favicon/favicon-32x32.png)]"></span>
