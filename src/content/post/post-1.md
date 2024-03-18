@@ -7,7 +7,6 @@ category: Projet
 tags:
   - Transiscapade
   - Naissance
-image: 
 ---
 
 
