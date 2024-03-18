@@ -3,7 +3,7 @@ import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
 export const headerData = {
   links: [
     {
-      text: 'Le Projet',
+      text: "L'espapade",
       links: [
         {
           text: 'Quoi ?',
@@ -13,10 +13,14 @@ export const headerData = {
           text: 'Qui ?',
           href: getPermalink('/accueil/qui'),
         },
+        {
+          text: 'Pourquoi ?',
+          href: getPermalink('/accueil/pourquoi'),
+        },
       ],
     },
     {
-      text: 'Les itinéraires',
+      text: 'Itinéraires',
       links: [
         {
           text: 'Le Mans > Lyon',
@@ -25,6 +29,19 @@ export const headerData = {
         {
           text: 'Lyon > Marseille',
           href: getPermalink('/itineraires/itineraire2'),
+        },
+      ],
+    },
+    {
+      text: 'Blog',
+      links: [
+        {
+          text: 'Accueil',
+          href: getBlogPermalink(),
+        },
+        {
+          text: 'Naissance du projet',
+          href: getPermalink('post-1', 'post'),
         },
       ],
     },

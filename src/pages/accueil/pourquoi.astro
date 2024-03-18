@@ -12,7 +12,7 @@ import FAQs from '~/components/widgets/FAQs.astro';
 import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
 
 const metadata = {
-  title: 'Itinéraire Le Mans > Lyon',
+  title: 'Pourquoi ?',
 };
 ---
 
@@ -44,29 +44,22 @@ const metadata = {
   <!-- Hero2 Widget ******************* -->
 
   <Hero2
-    tagline="Itinéraire"
+    tagline="Pourquoi ..."
     actions={[
       { variant: 'primary', target: '_blank', text: 'Soutenez le projet', href: 'https://fr.tipeee.com/transiscapade' },
-      { text: 'Facebook', href: 'https://www.facebook.com/profile.php?id=61556861211105' },
-      { text: 'Vidéos', href: 'https://www.youtube.com/@Transiscapade-rm8es' },
+      { text: 'Page Facebook', href: 'https://www.facebook.com/profile.php?id=61556861211105' },
     ]}
-    image={{ src: '~/assets/images/vhelio-broute.jpg', alt: 'Yannick sur son vhélio' }}
+    image={{ src: '~/assets/images/pourquoi.png', alt: 'Départ du Mans avec poupoule' }}
   >
     <Fragment slot="title">
-      Le Mans > Lyon
+      La transiscapade ?
     </Fragment>
 
     <Fragment slot="subtitle">
-    (Mars 2024)
-<br />- lundi 4 : Allonnes > Jupilles
-<br />- mardi 5 : Jupilles > Tours > Montlouis
-<br />- mercredi 6 : Montlouis > selles sur cher
-<br />- jeudi 7 : selles sur cher > Vierzon
-<br />- vendredi 8 : Vierzon > Bourges
-<br />- samedi 9:  Bourges > Nevers
-<br />- dimanche 10 : Nevers > Gannay
-<br />- lundi 11: Gannay > paray le monial
-<br />- mardi 12 : Paray le monial > Beaujeu
-<br />- mercredi 13 : Beaujeu > Lyon
+         1) Pour me rendre au 9ème transiscothon de Marseille sans prendre ni l'avion, ni la voiture, ni le train, ni le bateau, ni l'ULM, ni une barque (manque de temps...)
+         <br /><br />2) Pour rencontrer des acteur.ice.s connecté.e.s localement au territoire et qui pourront maintenir une source Transiscope.
+         <br /><br />3) Suite logique de mon parcours (voir Menu > Projet > Qui ?)... Je vais pouvoir continuer à visiter des lieux en permaculture (projet Permalieux), mais en consommant moins d'énergie.
+         <br /><br />4) Pour le fun, pour me mettre en vie, parce-que j'adore les défis, pour mieux me connaitre, pour rencontrer le réel, pour incarner.
+         <br /><br />5) Pour montrer qu'on peut traverser la France en vélo.
     </Fragment>
   </Hero2>

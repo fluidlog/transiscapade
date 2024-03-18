@@ -6,14 +6,13 @@ import Hero2 from '~/components/widgets/Hero2.astro';
 import Features from '~/components/widgets/Features.astro';
 import Steps2 from '~/components/widgets/Steps2.astro';
 import Content from '~/components/widgets/Content.astro';
-import Pricing from '~/components/widgets/Pricing.astro';
 
 import { headerData } from '~/navigation';
 import FAQs from '~/components/widgets/FAQs.astro';
 import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
 
 const metadata = {
-  title: 'SaaS Landing Page',
+  title: 'Qui ?',
 };
 ---
 
@@ -23,14 +22,19 @@ const metadata = {
       {...headerData}
       actions={[
         {
-          variant: 'secondary',
+          variant: 'primary',
           text: 'Soutenez le projet',
           href: 'https://fr.tipeee.com/transiscapade',
         },
         {
           variant: 'primary',
-          text: 'Page Facebook',
+          text: 'Facebook',
           href: 'https://www.facebook.com/profile.php?id=61556861211105',
+        },
+        {
+          variant: 'primary',
+          text: 'Vidéos',
+          href: 'https://www.youtube.com/@Transiscapade-rm8es',
         },
       ]}
       isSticky
@@ -42,19 +46,18 @@ const metadata = {
   <Hero2
     tagline="Mon parcours"
     actions={[
-      { variant: 'primary', target: '_blank', text: 'Soutenez le projet', href: 'https://fr.tipeee.com/transiscapade' },
-      { text: 'Page Facebook', href: 'https://www.facebook.com/profile.php?id=61556861211105' },
+      { text: 'Voir le profil Facebook de Yannick', href: 'https://www.facebook.com/yannick.duthe.7/' },
     ]}
     image={{ src: '~/assets/images/yannick-vhelio.jpeg', alt: 'Yannick sur son vhélio' }}
   >
     <Fragment slot="title">
-      Qui sui-je ?
+      Qui suis-je ?
     </Fragment>
 
     <Fragment slot="subtitle">
-         Je m'appelle Yannick DUTHE, je suis un passionné de la transition
-         <br /> <br /> Depuis une dizaine d'années, je recherche et je cartographie les alternatives dans nos territoires en visitant des lieux inspirants autour de chez moi (projet "Permalieux").
-         <br /> <br /> Je suis aussi développeur web au sein de l'association Assemblée virtuelle (AV), dont l'objectif est de cartographier la transition en utilisant un web plus standardisé, distribué (non centralisé), respectant les données personnelles.
-         <br /> <br /> En 2023, j'ai eu la chance de pouvoir co-fabriquer mon vélo solaire, ce qui va me permettre d'aller visiter et de rendre visible ces alternatives sur notre site Transiscope.org, la carte de france des alternatives.
+         Je m'appelle Yannick DUTHE, je suis un passionné de transition et je suis sur le chemin de l'autonomie (Habitat, alimentation, transport, énergie, monnaie...).
+         <br /> <br /> Je suis développeur web au sein de l'association Assemblée Virtuelle (AV), dont l'objectif est de cartographier la transition en utilisant un web plus standardisé, distribué (non centralisé), respectant les données personnelles.
+         <br />Je porte le projet "Permalieux", qui cartographie les lieux permaculturels en Sarthe.
+         <br /> <br /> En 2023, j'ai eu la chance de pouvoir co-fabriquer mon vélo solaire, ce qui va me permettre d'aller visiter des lieux plus loin, plus sobrement, et toujours dans la joie !
     </Fragment>
   </Hero2>
