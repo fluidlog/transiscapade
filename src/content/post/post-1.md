@@ -9,7 +9,6 @@ tags:
   - Naissance
 ---
 
-
 ## Sur le chemin de l'autonomie...
 Voilà plusieurs années que je cherche à être le plus autonome possible.
 
