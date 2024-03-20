@@ -1,10 +1,10 @@
 ---
-publishDate: 2024-02-14
+publishDate: 2024-03-04
 author: Fluidlog
 title: Préparation avant le départ
 excerpt: A l'arrache ? Naaaannnn, tout était maitrisé !
 category: Projet
-image: 'https://www.transiscapa.de/_astro/blog-naissance.Ys4lLXIE_2p8zEn.webp'
+image: 'https://www.transiscapa.de/_astro/vhelio-fini.BkRND2DR_21ruf9.webp'
 tags:
   - Transiscapade
   - Bricolage
