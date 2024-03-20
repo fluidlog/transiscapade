@@ -43,6 +43,10 @@ export const headerData = {
           text: 'Naissance du projet',
           href: getPermalink('post-1', 'post'),
         },
+        {
+          text: 'Préparation avant le départ',
+          href: getPermalink('post-2', 'post'),
+        },
       ],
     },
   ],
