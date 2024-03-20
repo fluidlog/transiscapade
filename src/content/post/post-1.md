@@ -4,7 +4,7 @@ author: Fluidlog
 title: Naissance du projet
 excerpt: Comment est né le projet ?
 category: Projet
-image: 'https://www.transiscapa.de/_astro/blog-naissance.Ys4lLXIE_2p8zEn.webp'
+image: 'https://www.transiscapa.de/_astro/blog-naissance.BiziUtcg_1ivDGH.webp'
 tags:
   - Transiscapade
   - Naissance
