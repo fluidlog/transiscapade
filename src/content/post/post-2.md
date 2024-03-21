@@ -47,7 +47,7 @@ Retrouvez sur [la chaine youtube de la transiscapade](https://www.youtube.com/@T
 Je commence à regarder le [périple de Barnabé Chaillot](https://vhelio.org/suivez-le-periple-de-barnabe/) pour connaitre environ le nombre de km par jour qu'il est possible de faire avec le vhélio. Environ 50 km.
 
 J'installe l'application [GéoVélo](https://geovelo.app/fr/) qui m'annonce plus de 1000 km, en passant par Orléans (Loire à vélo). En effet, au début, je voulais faire le même trajet que Barnabé (Lyon > Orléans), mais en sens inverse, ça me donnait une bonne base.
-Problème : en calculant bien, je dois partir le 1er mars... Or, je suis encore en vacance, et je ne rentre que le 3 mars... Aille. Il faut changer l'itinéraire, tant pis pour [la Loire à vélo](https://www.loireavelo.fr/), je me retranche sur [Le cher à vélo](https://www.val-de-loire-41.com/destination-loir-et-cher/la-vallee-du-cher/circuits-velo-vallee-du-cher/)...
+**Problème :** en calculant bien, je dois partir le 1er mars... Or, je suis encore en vacances, et je ne rentre que le 3 mars... Aïe. Il faut changer l'itinéraire, tant pis pour [la Loire à vélo](https://www.loireavelo.fr/), je me retranche sur [Le cher à vélo](https://www.val-de-loire-41.com/destination-loir-et-cher/la-vallee-du-cher/circuits-velo-vallee-du-cher/)...
 Je recalcule, ça passe... juste. On tente ça.
 
 Je coupe le trajet en 2 car j'ai des impératifs familliaux mi-mars. Je dois être le 13 mars à Lyon. Pif paf pouf, ça fait 10 jours pour aller à Lyon... après, on verra, ça devrait passer...
@@ -77,44 +77,45 @@ Deux semaines avant, je décide d'acheter (en avance, je suis prévoyant...) :
 - du film plastique en rouleau pour le pare pluie, ainsi que des scratchs
 
 ### Réception de la deuxième batterie
-Voilà une semaine que je croyais la batterie arrivée à bon port. J'avais bien reçu une confirmation par SMS du livreur, comme quoi elle avait été donné en main propre à madame... A madame ? OK, mais quelle madame ? 
+Voilà une semaine que je croyais la batterie arrivée à bon port. J'avais bien reçu une confirmation par SMS du livreur, comme quoi elle avait été donnée en main propre à madame... A madame ? OK, mais quelle madame ? 
 
-J'ai eu beau demandé à tous mes colocs, aux voisins etc, personne n'avait vu cette batterie ! Nous étions dimanche et le livreur était injoignable. Je commençais à faire une croix sur ma deuxième batterie, ce qui allait complexifier vraiment les choses.
+J'ai eu beau demander à tous mes colocs, aux voisins etc, personne n'avait vu cette batterie ! Nous étions dimanche et le livreur était injoignable. Je commençais à faire une croix sur ma deuxième batterie, ce qui allait complexifier vraiment les choses.
 
-Et puis, quelqu'une pense à aller voir à une adresse ressemblant dans une autre ville proche... On sonne, on demande... suspens, et là, une dame nous confirme qu'elle a bien reçu un paquet qui ne lui apartient pas et qu'elle est bien embêtée avec !! Ouf ! J'ai ma batterie !...
+Et puis, quelqu'une pense à aller voir à une adresse identique dans une autre ville proche... On sonne, on demande... suspens, et là, une dame nous confirme qu'elle a bien reçu un paquet qui ne lui appartient pas et qu'elle est bien embêtée avec !! Ouf ! J'ai ma batterie !...
 
 ### La boite isotherme
 J'ai commandé la boite une semaine avant le départ. A l'heure ou j'écris ces lignes (3 semaines après), je ne sais toujours pas où elle a été livrée... Heureusement qu'on a pu m'en prêter une en dépannage ! (un grand merci...)
 
 ### Films plastique
-On est dimanche, il me manque deux mètre de film plastique... Tout va bien, on est laaaarge !
+On est dimanche, il me manque deux mètres de film plastique... Tout va bien, on est laaaarge !
 
-Premier magasin (genre foirefouille...), désolé, nous ne servons pas les films plastique le dimanche (c'est compréhensible...). Deuxième magasin, c'est bon, ils en ont ! Ouf. Il est plus fin, mais ça fera l'affaire !
+- Premier magasin (genre foirefouille...) : "désolé, nous ne servons pas les films plastiques le dimanche" (c'est compréhensible...). 
+- Deuxième magasin, c'est bon, ils en ont ! Ouf. Il est plus fin, mais ça fera l'affaire !
 
-C'est bon, **j'ai tous le matériel indispensable** pour partir.
+C'est bon, **j'ai tout le matériel indispensable** pour partir.
 
 ## Préparation du dimanche 3 mars
-Le dimanche 3 mars, je rentre de vacance, vers 18h, et j'ai RDV avec Piem, qui ne se doute pas qu'il n'est pas près de se coucher...
+Le dimanche 3 mars, je rentre de vacances, vers 18h, et j'ai RDV avec Piem, qui ne se doute pas qu'il n'est pas près de se coucher...
 
-Je vous passe les détails (manque de matériel pour faire un travail de qualité... nous avons dû faire avec ce que nous avions...), nous avons passé au moins 6h (en commptant le repas...) pour : 
+Je vous passe les détails (manque de matériel pour faire un travail de qualité... nous avons dû faire avec ce que nous avions...), nous avons passé au moins 6h (en comptant le repas...) pour : 
 - découper le film plastique avant et latéral et le poser avec des scratchs
 - fixer 3 barres supplémentaires pour tenir la boite kangabox à l'arrière
 
 Nous partons nous coucher à 2h du matin, rincés, mais sereins, on est laaaarge... il nous reste pour le lendemain matin : 
-- A terminer les protections latérales et arrière
+- A terminer les protections latérales et arrières
 - A faire mon sac (rien n'était prêt... enfin si, tous mes habits étaient propres !)
-- A acueillir le journaliste de Actu.fr pour le [reportage de départ](https://actu.fr/pays-de-la-loire/allonnes_72003/il-va-parcourir-pres-de-900-kilometres-en-un-mois-a-bord-dun-velo-solaire_60780828.html)
+- A accueillir le journaliste de Actu.fr pour le [reportage de départ](https://actu.fr/pays-de-la-loire/allonnes_72003/il-va-parcourir-pres-de-900-kilometres-en-un-mois-a-bord-dun-velo-solaire_60780828.html)
 
 ## Finalisation des préparatifs le matin du 4 mars
 - Lever 7h, pas de petit dej, on se met directement à la tâche.
-- Je commence un peu à faire mon sac... combien de chaussettes ? Il va faire chaud, froid ? Un pyjama ? ohh, il emène un pyjama, gnagnagna... pfff. Hé bien je suis bien content d'avoir pris mon pyj ! Et toc.
-- 8h30, les films plastique latéraux sont posés
+- Je commence un peu à faire mon sac... combien de chaussettes ? Il va faire chaud, froid ? Un pyjama ? Ohh, il emmène un pyjama, gnagnagna... pfff. Non mais c'est quoi ces injonctions anti-pyjama ?! Hé bien je suis bien content d'avoir pris mon pyj ! Et toc.
+- 8h30, les films plastiques latéraux sont posés
 - 9h, le journaliste appelle, je ne l'attendais plus, mais on est presque prêts, j'ai RDV à midi à Ecommoy, bon, allez, ça va passer...
 - 10h : nous avons répondu aux questions du journaliste, on film le départ, faux départ, la capote avant se détache... Piem ajoute un super bout de ficelle à l'intérieur du rouleau (il fallait y penser n'empêche !). Et là, c'est vraiment le grand départ, les au-revoirs, le déchirement, ça me fait bizarre, je ne suis pas prêt de revenir, ai-je pensé à tout ? Finalement, **Oui**.
 
 ## Un grand merci
 
-Un grand grand merci à Pim pour son aide, son adaptation, ses bonnes idées, son acceptation. On a passé une excellente soirée, détendu, on s'est bien marré, je ne regrette rien ! (j'ai juste beaucoup de chance...)
+Un grand grand merci à Pim pour son aide, son adaptation, ses bonnes idées, son acceptation. On a passé une excellente soirée, détendus, on s'est bien marré, je ne regrette rien ! (j'ai juste beaucoup de chance...)
 
 Merci aussi à celleux qui étaient présent.es sur la fin, et le matin, pour nous soutenir, et rigoler avec nous tellement c'était n'importe quoi ! Mais on l'a fait, et le résultat était au delà de mes espérances.
 

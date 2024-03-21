@@ -50,9 +50,24 @@ Depuis 3 ans, les transiscothons sont une réussite. Nous fédérons de plus en 
 
 Habitant en Sarthe, j'étais allé en voiture à celui de Quimper, mais ça faisait vraiment loin. Lorsqu'on m'a dit que le prochain était à Marseille, j'ai failli dire non, car je ne me voyais pas y aller en train (trop cher...), ni en voiture (trop long et surtout peu passionnant...).
 
-## Le déclenchement
+## 8 mois avant, ... L'aventure "vhélio"
+Il y a une dizaine d'années (oui, encore...), j'ai découvert les vélos solaires dans une vidéo qui parlait d'une communauté autonome dans les pyrénées... Ca existe, ça fonctionne, il y a même une course tous les ans (la [Sun Trip](https://www.thesuntrip.com/) ) Régulièrement, je regardais les nouveaux modèles qui sortaient partout dans le monde, et je notait tout dans un document en ligne (PAD).
+
+Puis est arrivé [le wello](https://www.clicanoo.re/article/economie/2023/09/14/la-start-up-wello-placee-en-liquidation-judiciaire-65026741bd95c), un vélo solaire inventé par un français, basé au Mans et à la réunion, qui répondait tout à fait à ce que je cherchais, mais en les contactant, j'ai bien compris qu'il n'était pas dans mes prix (plus de 10 000€ pour la version solaire). Bref, j'ai abandonné. En 2023, la startup a fait faillite, elle était la première, elle a essuyé les plâtres, merci, un grand bravo à Arnaud, qui a montré la voie des véhicules intermédiaires en France.
+
+Deux ans après, j'entend parler du projet [vhélio](https://vhelio.org), un vélo solaire auto-construit, dont les plans sont en open-source, une communauté active... Whaou, c'est pour moi !
+Début 2023, un ami m'appelle pour participer à un atelier mi-2023, je lui dis que je suis intéressé, pour monter en compétence, et faire le mien en 2024...
+
+Première visio, nous sommes 3, je décide de faire mon vhélio ! Ensuite, tout s'est passé très vite, si vous voulez tout savoir sur l'atelier de fabrication de ce vhélio, c'est ici : 
+
+[PAD de l'aventure vhélio](https://pad.lescommuns.org/vhelio26)
+
+## Le déclenchement vers la transiscapade
+
 Mi février, suite à une discussion avec une amie proche, elle me dit qu'elle me verrait bien partir sur les chemins, pour vivre des expériences personnelles enrichissantes, rencontrer des lieux et des gens... 
 
-Ca n'a fait qu'un tour dans mon cerveau, et à 4h du matin, le projet était presque bouclé... Je me lève, je regarde les distances, le temps restant, c'est jouable... Ca me motive, deux semaines après, j'étais parti.
+Ca n'a fait qu'un tour dans mon cerveau, j'aime visiter des lieux, j'aime raconter ce que je découvre, j'ai un vélo solaire...
+
+A 4h du matin, mes yeux s'ouvrent et je cogite jusqu'au matin... le projet était presque écrit... Je me lève, je regarde les distances, le temps restant, c'est jouable... Ca me motive, deux semaines après, j'étais parti !
 
 ![Image du vhélio devant des rails](../../assets/images/blog-naissance.png)
