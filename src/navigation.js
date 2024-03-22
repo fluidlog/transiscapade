@@ -17,6 +17,10 @@ export const headerData = {
           text: 'Pourquoi ?',
           href: getPermalink('/accueil/pourquoi'),
         },
+        {
+          text: 'Presse',
+          href: getPermalink('/accueil/presse'),
+        },
       ],
     },
     {
