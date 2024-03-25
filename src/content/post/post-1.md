@@ -6,7 +6,16 @@ excerpt: Comment est né le projet ?
 image: 'https://www.transiscapa.de/_astro/blog-naissance.BiziUtcg_1ivDGH.webp'
 tags:
   - Transiscapade
+  - Autonomie
+  - Cartographie
+  - Transition
+  - Assemblée virtuelle
+  - Transiscope
+  - Transiscothon
+  - Vhélio
   - Naissance
+  - Le Mans
+  - Marseille
 ---
 
 ## Sur le chemin de l'autonomie...

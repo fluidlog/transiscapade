@@ -1,14 +1,17 @@
 ---
-publishDate: 2024-03-04
+publishDate: 2024-03-03
 author: Fluidlog
 title: Préparation avant le départ
 excerpt: A l'arrache ? Naaaannnn, tout était maitrisé !
 image: 'https://www.transiscapa.de/_astro/vhelio-fini.BkRND2DR_21ruf9.webp'
 tags:
-  - Transiscapade
   - Bricolage
   - Préparation
   - Vhélio
+  - Communication
+  - Itinéraire
+  - Problèmes
+  - Allonnes
 ---
 
 # En vidéo...

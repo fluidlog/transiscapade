@@ -3,11 +3,12 @@ publishDate: 2024-03-04
 author: Fluidlog
 title: Le premier jour vers Ecommoy
 excerpt: Le grand départ, je prends mes marques...
-image: 'https://www.transiscapa.de/_astro/vhelio-fini.BkRND2DR_21ruf9.webp'
+image: 'https://www.transiscapa.de/_astro/yannick-claire-vhelio.BH0HaY2z_1aKVpP.webp'
 tags:
   - Départ
   - Appréhensions
   - Maraîchage
+  - Ferme des herbes folles
   - Ecommoy
 ---
 
