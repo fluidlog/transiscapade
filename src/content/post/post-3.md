@@ -25,7 +25,7 @@ Depuis tout petit, je n'ai pas beaucoup voyagé, je ne suis pas attiré par le t
 
 Là, c'est donc pour moi un vrai **challenge**, j'ai envie de me confronter "raisonablement" au voyage, à l'inconnu, faire **confiance en la vie**... Je trouve que la France est un beau pays et qu'il y a déjà assez de diversité à découvrir avant d'aller plus loin.
 
-## Ai-je oublié quelque chose ?
+## Ai-je oublié quelque chose ?
 Pendant les premières minutes, je me dis : "Bon, si j'ai oublié quelque chose d'important, on pourra me les apporter à Ecommoy, il faut bien partir à un moment". Au final, je n'ai oublié que deux choses, mon couteau (j'en trouverai un sur la route), et ma fiole d'huile pour la chaine du vélo (j'ai croisé moultes magasins de cycles et autres garages vélo le long de ma route...). Moi qui d'habitude oublie beaucoup de choses, pour une fois, **j'ai pensé à tout**.
 
 ## Sentiment bizarre et moultes questions
