@@ -3,7 +3,6 @@ publishDate: 2024-03-04
 author: Fluidlog
 title: Préparation avant le départ
 excerpt: A l'arrache ? Naaaannnn, tout était maitrisé !
-category: Projet
 image: 'https://www.transiscapa.de/_astro/vhelio-fini.BkRND2DR_21ruf9.webp'
 tags:
   - Transiscapade
@@ -13,7 +12,7 @@ tags:
 ---
 
 # En vidéo...
-Retrouvez sur [la chaine youtube de la transiscapade](https://www.youtube.com/@Transiscapade) l'[Episode 1 - Préparation du vélo solaire](https://www.youtube.com/watch?v=lCHRIJVEt80)
+Retrouvez sur [la chaine youtube de la transiscapade](https://www.youtube.com/@Transiscapade), l'[Episode 1 - Préparation du vélo solaire](https://www.youtube.com/watch?v=lCHRIJVEt80)
 
 # En détail...
 
@@ -119,13 +118,13 @@ Un grand grand merci à Pim pour son aide, son adaptation, ses bonnes idées, so
 
 Merci aussi à celleux qui étaient présent.es sur la fin, et le matin, pour nous soutenir, et rigoler avec nous tellement c'était n'importe quoi ! Mais on l'a fait, et le résultat était au delà de mes espérances.
 
-## En photo...
+# En photo...
 
-### Le sommier gonflable
+## Le sommier gonflable
 ![Image du vhélio et du sommier gonflable...](../../assets/images/vhelio-sommier.jpg)
 
-### A 18h le dimanche 3 mars
+## A 18h le dimanche 3 mars
 ![Image du vhélio vierge avant bricole...](../../assets/images/vhelio-vierge.jpg)
 
-### Vers 2h du matin...
+## Vers 2h du matin...
 ![Image du vhélio terminé après bricole...](../../assets/images/vhelio-fini.jpg)

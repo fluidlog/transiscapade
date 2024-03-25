@@ -51,6 +51,10 @@ export const headerData = {
           text: 'Préparation avant le départ',
           href: getPermalink('post-2', 'post'),
         },
+        {
+          text: 'Le premier jour vers Ecommoy !',
+          href: getPermalink('post-3', 'post'),
+        },
       ],
     },
   ],

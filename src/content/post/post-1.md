@@ -3,7 +3,6 @@ publishDate: 2024-02-14
 author: Fluidlog
 title: Naissance du projet
 excerpt: Comment est né le projet ?
-category: Projet
 image: 'https://www.transiscapa.de/_astro/blog-naissance.BiziUtcg_1ivDGH.webp'
 tags:
   - Transiscapade
