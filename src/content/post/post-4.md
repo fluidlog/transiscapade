@@ -3,12 +3,16 @@ publishDate: 2024-03-05
 author: Fluidlog
 title: Brass'Vie à Jupilles
 excerpt: Direction Jupilles, première étape
-image: 'https://www.transiscapa.de/_astro/yannick-claire-vhelio.BH0HaY2z_1aKVpP.webp'
+image: 'https://www.transiscapa.de/_astro/Ep03-vhelio-saint-jacques.DBvXLF2X_Z1G9INv.webp'
 tags:
-  - Bar associatif
+  - Lieu associatif
   - Brass'vie
   - SCI
   - Jupilles
+  - foret de Bercé
+  - Carnuta
+  - Crocus
+  - Escampe
 ---
 
 # En vidéo...
