@@ -18,6 +18,8 @@ Retrouvez sur [la chaine youtube de la transiscapade](https://www.youtube.com/@T
 # En détail...
 
 ## Le grand départ
+![Image du vhélio au départ avec la poule...](../../assets/images/le-grand-depart.jpg)
+
 Nous sommes le 04 mars, je n'ai pas beaucoup dormi, mais je suis toujours excité comme une puce et **j'ai la baraka** !
 
 Je quite donc mes amis, ma famille, pour une période d'au moins deux mois. Je n'ai jamais fait ça de ma vie. C'est pour moi une sorte de **baptême initiatique**. 
@@ -49,11 +51,15 @@ Sourire au gens, **dire bonjour** à chaque passant, en les regardant droit dans
 Comme dirait la chanson de Nitin Sawhney [Say Hello](https://www.youtube.com/watch?v=LRnd_3f4SPU).
 
 ## Passage à Spay
+![Image du vhélio à Spay...](../../assets/images/vhelio-spay.jpg)
+
 Je passe faire un coucou à des amis à Spay, et je leur demande une bouteille d'eau car je me rends compte que ma gourde est coincée dans le fond de ma boite isotherme, et que ce n'est pas pratique.
 
 Leur bouteille fera le tour de France... :)
 
 ## Première interview à Ecommoy
+![Image de Yannick et de Claire cheveux aux vents...](../../assets/images/yannick-claire-vent.jpg)
+
 Tout se passe bien jusqu'à Ecommoy, j'arrive à l'heure chez Claire à la ferme des herbes folles pour une **première interview**. Je suis super content de rencontrer Claire, comme si elle m'accompagnait dans le fait de quitter ma région, mes amis, tout en douceur...
 
 On a bien mangé, fait assez rapidement l'interview, en quelques prises, l'essentiel du message était passé. Bravo à Claire pour ce pitch !
@@ -68,15 +74,9 @@ Certains d'entre vous ont été **frustrés** de ne pas voir les détails du Pal
 A l'avenir, je passerai plus de temps à décrire les lieux que je visite en vidéo.
 
 ## Projet Permalieux
-Retrouvez plus d'informations sur **la ferme des herbes folles** sur le **PAD** du projet [Permalieux]() > [Liste des permalieux visités](https://paper.dropbox.com/doc/Liste-des-permalieux-visites-auX6lhoT0BAJ9rh3kCl2w)
+Retrouvez plus d'informations sur **la ferme des herbes folles** sur le **PAD** du projet [Permalieux](https://paper.dropbox.com/doc/Permalieux-72-IlbDvuBKKhOERQtgZqiz2) > [Liste des permalieux visités](https://paper.dropbox.com/doc/Liste-des-permalieux-visites-auX6lhoT0BAJ9rh3kCl2w)
 
 # En photo...
-
-## Le grand départ
-![Image du vhélio au départ avec la poule...](../../assets/images/le-grand-depart.jpg)
-
-## Passage à Spay
-![Image du vhélio à Spay...](../../assets/images/vhelio-spay.jpg)
 
 ## Sur la route
 ![Image du vhélio seul...](../../assets/images/vhelio-seul.jpg)
@@ -86,6 +86,5 @@ Retrouvez plus d'informations sur **la ferme des herbes folles** sur le **PAD** 
 ![Image du chausson aux pommes..](../../assets/images/chausson-pommes.jpg)
 
 ## A la ferme des herbes folles
-![Image de Yannick et de Claire cheveux aux vents...](../../assets/images/yannick-claire-vent.jpg)
 
 ![Image de Yannick et de Claire devant le vhélio...](../../assets/images/yannick-claire-vhelio.jpg)

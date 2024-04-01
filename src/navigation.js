@@ -55,6 +55,10 @@ export const headerData = {
           text: 'Le premier jour vers Ecommoy !',
           href: getPermalink('post-3', 'post'),
         },
+        {
+          text: "Brass'vie à Jupilles !",
+          href: getPermalink('post-4', 'post'),
+        },
       ],
     },
   ],
