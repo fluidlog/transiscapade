@@ -34,6 +34,10 @@ export const headerData = {
           text: 'Lyon > Marseille',
           href: getPermalink('/itineraires/itineraire2'),
         },
+        {
+          text: 'Marseille > Toulouse',
+          href: getPermalink('/itineraires/itineraire3'),
+        },
       ],
     },
     {
@@ -98,6 +102,7 @@ export const footerData = {
         { text: 'Le tour alternatiba (2024)', href: 'https://alternatiba.eu/nos-actions/tour-alternatiba-2024/' },
         { text: "L'Altertour", href: 'https://www.altercampagne.net/' },
         { text: "Le PermacoolTour", href: 'https://www.kevinsimon.fr/index.php/le-permacooltour-3/' },
+        { text: "Demain c'est mieux !", href: 'https://demaincestmieux.com/' },
       ],
     },
     {
