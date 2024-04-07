@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-02-14
+publishDate: 2024-02-14T12:00:00
 author: Fluidlog
 title: Naissance du projet
 excerpt: Comment est né le projet ?

@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-03-05
+publishDate: 2024-03-04T12:00:00
 author: Fluidlog
 title: Brass'Vie à Jupilles
 excerpt: Direction Jupilles, première étape

@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-03-03
+publishDate: 2024-03-03T12:00:00
 author: Fluidlog
 title: Préparation avant le départ
 excerpt: A l'arrache ? Naaaannnn, tout était maitrisé !

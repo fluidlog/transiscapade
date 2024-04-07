@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-03-04
+publishDate: 2024-03-04T08:00:00
 author: Fluidlog
 title: Le premier jour vers Ecommoy
 excerpt: Le grand départ, je prends mes marques...
