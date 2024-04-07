@@ -1,18 +1,18 @@
 ---
 publishDate: 2024-03-05T08:00:00
 author: Fluidlog
-title: Innondations entre Jupilles et Tours
+title: Inondations entre Jupilles et Tours
 excerpt: Parti de Lavernat, en direction de Tours !
-image: 'https://www.transiscapa.de/_astro/Ep04_Innondations1_vhelio.FPXFg0pL_Wplez.webp'
+image: 'https://www.transiscapa.de/_astro/Ep04_inondations1_vhelio.FPXFg0pL_Wplez.webp'
 tags:
-  - Innondations
+  - Inondations
   - Jupilles
   - Lavernat
   - Tours
 ---
 
 # En vidéo...
-Retrouvez sur [la chaine youtube de la transiscapade](https://www.youtube.com/@Transiscapade), l'[Episode 4 - Innondations entre Jupilles et Tours](https://www.youtube.com/watch?v=9Bjl1kWSwN0)
+Retrouvez sur [la chaine youtube de la transiscapade](https://www.youtube.com/@Transiscapade), l'[Episode 4 - Inondations entre Jupilles et Tours](https://www.youtube.com/watch?v=9Bjl1kWSwN0)
 
 # En détail...
 
@@ -29,8 +29,8 @@ Ciel bleu, soleil qui commence à monter, mais je suis bien avec mes gants et mo
 
 La route se passe bien, tranquillement, mais je sais que je ne dois pas trainer, car je dois faire 65 km aujourd'hui jusqu'à Montlouis sur Loire.
 
-## Première innondation
-![Innondations avant passage](../../assets/images/Ep04_Innondations1.jpg)
+## Première inondation
+![inondations avant passage](../../assets/images/Ep04_inondations1.jpg)
 
 Tout à coup, j'arrive devant une immense étendue d'eau qui est passée par dessus la route !
 
@@ -38,15 +38,15 @@ A la fois c'est magnifique, mais je me demande si je vais passer... Ca n'a pas l
 
 J'avance lentement, finalement, il n'y a que 5 cm de hauteur, donc ça va... Je recommence à faire le malin, à prendre des photos, etc... :)
 
-![Innondations après passage](../../assets/images/Ep04_Innondations1_vhelio.jpg)
+![inondations après passage](../../assets/images/Ep04_inondations1_vhelio.jpg)
 
-J'ai aussi une pensée pour les problèmes d'innondations plus globalement, et je ne peux m'empêcher de me demander s'il y en a de plus en plus, ou si ça arrive tous les ans, et que c'est "normal"... Dans le cas présent, je n'en sais rien.
+J'ai aussi une pensée pour les problèmes d'inondations plus globalement, et je ne peux m'empêcher de me demander s'il y en a de plus en plus, ou si ça arrive tous les ans, et que c'est "normal"... Dans le cas présent, je n'en sais rien.
 
-## Deuxième innondation !
+## Deuxième inondation !
 
-![Deuxième innondation](../../assets/images/Ep04_Innondations2.jpg)
+![Deuxième inondation](../../assets/images/Ep04_inondations2.jpg)
 
-1 km plus loin, me voilà devant une nouvelle innondation !
+1 km plus loin, me voilà devant une nouvelle inondation !
 
 Je m'approche, je regarde autour, j'hésite.
 J'attends un peu, et tout à coup, j'entends un pêcheur qui appelle des amis.
