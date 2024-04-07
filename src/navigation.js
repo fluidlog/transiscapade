@@ -70,7 +70,7 @@ export const headerData = {
       ],
     },
   ],
-  actions: [{ text: 'Vidéos', href: 'https://www.youtube.com/@Transiscapade-rm8es', target: '_blank' }, 
+  actions: [{ text: 'Vidéos', href: 'https://www.youtube.com/@Transiscapade', target: '_blank' }, 
   { text: 'Soutenez le projet', href: 'https://fr.tipeee.com/transiscapade/', target: '_blank' }
 ],
 };
@@ -118,7 +118,7 @@ export const footerData = {
     },
   ],
   socialLinks: [
-    { ariaLabel: 'youtube', icon: 'tabler:brand-youtube', href: 'https://www.youtube.com/@Transiscapade-rm8es', target: '_blank' },
+    { ariaLabel: 'youtube', icon: 'tabler:brand-youtube', href: 'https://www.youtube.com/@Transiscapade', target: '_blank' },
     { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/profile.php?id=61556861211105', target: '_blank' },
     { ariaLabel: 'Financement participatif', icon: 'tabler:moneybag', href: 'https://fr.tipeee.com/transiscapade', target: '_blank' },
   ],
