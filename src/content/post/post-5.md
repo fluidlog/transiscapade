@@ -3,7 +3,7 @@ publishDate: 2024-03-05T08:00:00
 author: Fluidlog
 title: Innondations entre Jupilles et Tours
 excerpt: Parti de Lavernat, en direction de Tours !
-image: 'https://www.transiscapa.de/_astro/Ep03-vhelio-saint-jacques.DBvXLF2X_Z1G9INv.webp'
+image: 'https://www.transiscapa.de/_astro/Ep04_Innondations1_vhelio.FPXFg0pL_Wplez.webp'
 tags:
   - Innondations
   - Jupilles
