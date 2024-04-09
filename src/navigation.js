@@ -3,7 +3,7 @@ import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
 export const headerData = {
   links: [
     {
-      text: "L'espapade",
+      text: "L'escapade",
       links: [
         {
           text: 'Quoi ?',
@@ -71,7 +71,7 @@ export const headerData = {
     },
   ],
   actions: [{ text: 'Vidéos', href: 'https://www.youtube.com/@Transiscapade', target: '_blank' }, 
-  { text: 'Soutenez le projet', href: 'https://fr.tipeee.com/transiscapade/', target: '_blank' }
+  { variant: 'primary', text: 'Soutenez le projet', href: 'https://fr.tipeee.com/transiscapade/', target: '_blank' }
 ],
 };
 
@@ -120,6 +120,8 @@ export const footerData = {
   socialLinks: [
     { ariaLabel: 'youtube', icon: 'tabler:brand-youtube', href: 'https://www.youtube.com/@Transiscapade', target: '_blank' },
     { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/profile.php?id=61556861211105', target: '_blank' },
+    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://www.instagram.com/transiscapade_1/', target: '_blank' },
+    { ariaLabel: 'LinkedIn', icon: 'tabler:brand-linkedin', href: 'https://www.linkedin.com/in/yannick-duthe-569a741b/', target: '_blank' },
     { ariaLabel: 'Financement participatif', icon: 'tabler:moneybag', href: 'https://fr.tipeee.com/transiscapade', target: '_blank' },
   ],
   footNote: `

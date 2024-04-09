@@ -28,11 +28,6 @@ const metadata = {
         },
         {
           variant: 'primary',
-          text: 'Facebook',
-          href: 'https://www.facebook.com/profile.php?id=61556861211105',
-        },
-        {
-          variant: 'primary',
           text: 'Vidéos',
           href: 'https://www.youtube.com/@Transiscapade',
         },
@@ -46,9 +41,10 @@ const metadata = {
   <Hero2
     tagline="Itinéraire"
     actions={[
-      { variant: 'primary', target: '_blank', text: 'Soutenez le projet', href: 'https://fr.tipeee.com/transiscapade' },
-      { text: 'Facebook', href: 'https://www.facebook.com/profile.php?id=61556861211105' },
-      { text: 'Vidéos', href: 'https://www.youtube.com/@Transiscapade' },
+      { variant: 'primary', target: '_blank', text: 'Soutenez', icon: 'tabler:moneybag', href: 'https://fr.tipeee.com/transiscapade' },
+      { target: '_blank', text: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/profile.php?id=61556861211105' },
+      { target: '_blank', text: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://www.instagram.com/transiscapade_1/' },
+      { target: '_blank', text: 'LinkedIn', icon: 'tabler:brand-linkedin', href: 'https://www.linkedin.com/in/yannick-duthe-569a741b/' },
     ]}
     image={{ src: '~/assets/images/Marseille-Toulouse.jpeg', alt: 'Yannick sur son vhélio' }}
   >
@@ -65,12 +61,12 @@ Lundi 1/04 - Marseille > Auriol
 <br />- Samedi 6/04 - Aigues mortes
 <br />- Dimanche 7/04 - Palavas les flots
 <br />- Lundi 8/04 - Poussan
-<br />- 13/04 - Agde
-<br />- 14/04 - Béziers 
-<br />- 15/04 - Felines-Minervois
-<br />- 16/04 - Lézignan-corbiere
-<br />- 17/04 - Carcassonne
-<br />- 18/04 - Castelnaudary
-<br />- 19/04 - Labarthe sur leze, puis le 20/04 à Toulouse
+<br />- Samedi 13/04 - Agde
+<br />- Dimanche 14/04 > Lundi 15/04 - Béziers 
+<br />- Mardi 16/04 - Lézignan-corbiere
+<br />- Mercredi 17/04 - Felines-Minervois
+<br />- Jeudi 18/04 - Carcassonne
+<br />- Vendredi 19/04 - Castelnaudary
+<br />- Samedi 20/04 - Labarthe sur leze, puis le 20/04 à Toulouse
     </Fragment>
   </Hero2>

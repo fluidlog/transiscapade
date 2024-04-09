@@ -28,11 +28,6 @@ const metadata = {
         },
         {
           variant: 'primary',
-          text: 'Facebook',
-          href: 'https://www.facebook.com/profile.php?id=61556861211105',
-        },
-        {
-          variant: 'primary',
           text: 'Vidéos',
           href: 'https://www.youtube.com/@Transiscapade',
         },
@@ -46,8 +41,10 @@ const metadata = {
   <Hero2
     tagline="Pourquoi ..."
     actions={[
-      { variant: 'primary', target: '_blank', text: 'Soutenez le projet', href: 'https://fr.tipeee.com/transiscapade' },
-      { text: 'Page Facebook', href: 'https://www.facebook.com/profile.php?id=61556861211105' },
+      { variant: 'primary', target: '_blank', text: 'Soutenez', icon: 'tabler:moneybag', href: 'https://fr.tipeee.com/transiscapade' },
+      { target: '_blank', text: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/profile.php?id=61556861211105' },
+      { target: '_blank', text: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://www.instagram.com/transiscapade_1/' },
+      { target: '_blank', text: 'LinkedIn', icon: 'tabler:brand-linkedin', href: 'https://www.linkedin.com/in/yannick-duthe-569a741b/' },
     ]}
     image={{ src: '~/assets/images/pourquoi.png', alt: 'Départ du Mans avec poupoule' }}
   >
