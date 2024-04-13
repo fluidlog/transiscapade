@@ -11,9 +11,10 @@ tags:
   - Monnaie
   - Vidéos
   - Crowdfunding
+  - Coût
 ---
 
-## Merci !
+## Merci !
 Tout d'abord, avant de parler de financement participatif, nous tenons à remercier tous ceux et celles qui ont déjà donné sur notre [Tipeee](https://fr.tipeee.com/transiscapade/).
 
 ## Pourquoi avoir besoin d'un financement ?
