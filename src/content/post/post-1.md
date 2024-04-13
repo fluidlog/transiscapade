@@ -89,16 +89,17 @@ Il passe environ **4h en moyenne pour chaque vidéo**.
 * il ajoute du rythme avec des musiques (libres de droit), parfois, je lui envoie des extraits repris au ukulele...
 * il incruste régulièrement des photos, des liens, pour étayer le propos
 * il ajoute des textes, des titres, des sous-titres, pour améliorer l'accessibilité
-* il ajoute la vidéo, le titre et la description sur youtube, et Instagram.
+* il ajoute la vidéo, le titre et la description sur youtube, et Instagram
+* globalement, il ajoute sa "patte", sa "touche", pour donner à l'ensemble une certaine homogénéité et faire en sorte que la consultation des vidéos et du son soit agréable et intéressante.
 
-Bref, nous avons estimé ce travail à 100€ pour chaque vidéo.
+Nous avons estimé ce travail à 100€ pour chaque vidéo.
 
 Je suis super content du travail de Nicolas, de son écoute, de son sérieux, de son endurance, de sa présence, au téléphone, régulièrement, tout au long de mon trajet, du temps qu'il a passé, de son apport au niveau de la ligne éditoriale, de sa transparence etc. On forme une bonne équipe !
 
 ## Vélo-reporter, un vrai "travail" !
 
 Même si on a l'impression que je me la coule douce dans les vidéos... :), je ne m'attendais pas vraiment à cela, mais l'activité de "vélo-reporter" est un vrai "travail" !
-D'ailleurs, plus ça va et plus je conçois le mot **"travail"** non pas comme "tripalium" (torture), mais comme "travel" (voyage)... 
+D'ailleurs, plus ça va et plus je conçois le mot **"travail"** non pas comme "tripalium" (instrument de torture), mais comme "travel" (voyage)... 
 
 Voici la liste des choses que je dois réaliser tout au long du voyage, et qui pourrait s'assimiler à du "travail" : 
 * **Au présent :**
@@ -128,11 +129,10 @@ Voici la liste des choses que je dois réaliser tout au long du voyage, et qui p
   * Contacter les **"amis d'amis"** qui pouraient m'héberger, les **cyclistes** du réseau [warmshower](https://www.warmshowers.org/), et si je n'ai pas de réponse, trouver un **hotel** (booking/airbnb).
   * Bref, je suis à longeur de temps sur mon téléphone ! :(
 
-## Je ne me considère pas en vacances... 
-Je ne me plains pas non plus, car c'est moi qui l'ai choisi, c'est juste pour vous permettre d'évaluer un peu mieux ce que je produits, si vous souhaitez me rétribuer directement. Après, vous faites bien ce que vous souhaitez. Si le projet n'a pas assez de financement, il s'arrêtera et ce sera signe qu'il n'y en a pas besoin, tout simplement.
+**Je ne me considère pas en vacances...**. Je ne me plains pas non plus, car c'est moi qui l'ai choisi, c'est juste pour vous permettre d'évaluer un peu mieux ce que je produits, si vous souhaitez me rétribuer directement. Après, vous faites bien ce que vous souhaitez. Si le projet n'a pas assez de financement, il s'arrêtera et ce sera signe qu'il n'y en a pas besoin, tout simplement.
 
 ## Combien donner ?
-Ce que vous souhaitez !
+Ce que vous souhaitez ! :)
 
 Pour moi, le financement participatif, c'est **"une masse de personnes, qui donnent un petit peu chacun"**. Evidemment, si quelqu'un souhaite donner beaucoup, car le projet lui parle, il le peut, mais je préfère 1000 dons à 2€ que 100 dons à 20€. Et je m'occupe de trouver la masse !
 
