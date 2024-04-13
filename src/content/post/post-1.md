@@ -3,13 +3,18 @@ publishDate: 2024-02-20T12:00:00
 author: Fluidlog
 title: Pourquoi un financement participatif ?
 excerpt: Pour travailler la dépendance ?
-image: 'https://www.transiscapa.de/_astro/blog-naissance.BiziUtcg_1ivDGH.webp'
+image: 'https://www.transiscapa.de/_astro/contribuez2.BJshRISk_Z1f6Kdm.webp'
 tags:
   - Financement participatif
   - Pourquoi
   - Tipeee
   - Monnaie
+  - Vidéos
+  - Crowdfunding
 ---
+
+## Merci !
+Tout d'abord, avant de parler de financement participatif, nous tenons à remercier tous ceux et celles qui ont déjà donné sur notre [Tipeee](https://fr.tipeee.com/transiscapade/).
 
 ## Pourquoi avoir besoin d'un financement ?
 
