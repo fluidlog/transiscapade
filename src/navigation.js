@@ -49,6 +49,10 @@ export const headerData = {
         },
         {
           text: 'Naissance du projet',
+          href: getPermalink('post-0', 'post'),
+        },
+        {
+          text: 'Financement participatif',
           href: getPermalink('post-1', 'post'),
         },
         {
