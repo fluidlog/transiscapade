@@ -42,6 +42,7 @@ De mémoire, voici une petite liste de projets que j'ai soutenu grâce au financ
 * [Socialter](https://www.socialter.fr/) (un magazine alternatif)
 * [Le mouvement colibris](https://www.colibris-lemouvement.org/)
 * [Le mouvement Alternatiba](https://alternatiba.eu/)
+* Une dizaine de reportages, des livres...
 * Et tous les projets auxquels j'ai participé (jardins partagés, monnaie libre, communs numériques...)
 
 J'ai aussi soutenu avec mon porte-monnaie des produits que j'ai directement acheté, comme par exemple des t-shirts qui font attention à la quantité d'eau consommée, ou des savons, ou tout simplement des maraichers en achetant leur panier.
