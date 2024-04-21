@@ -1,9 +1,9 @@
 ---
 publishDate: 2024-03-05T11:00:00
 author: Fluidlog
-title: Internet associatif à Tours
+title: Internet associatif à Tours et spectacle
 excerpt: Un peu d'informatique et un super spectacle de chant pour terminer cette deuxième journée !
-image: 'https://www.transiscapa.de/_astro/Ep04_inondations1_vhelio.FPXFg0pL_YTHp6.webp'
+image: 'https://www.transiscapa.de/_astro/Ep05-loire.DTlCVMrL_Z2mq2Wz.webp'
 tags:
   - Internet
   - Association
