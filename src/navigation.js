@@ -68,8 +68,12 @@ export const headerData = {
           href: getPermalink('post-4', 'post'),
         },
         {
-          text: "Innondations entre Jupilles et Tours !",
+          text: "Inondations entre Jupilles et Tours !",
           href: getPermalink('post-5', 'post'),
+        },
+        {
+          text: "Internet associatif à Tours !",
+          href: getPermalink('post-6', 'post'),
         },
       ],
     },
