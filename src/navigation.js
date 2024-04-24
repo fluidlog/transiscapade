@@ -38,6 +38,10 @@ export const headerData = {
           text: 'Marseille > Toulouse',
           href: getPermalink('/itineraires/itineraire3'),
         },
+        {
+          text: 'Toulouse > Bordeaux',
+          href: getPermalink('/itineraires/itineraire4'),
+        },
       ],
     },
     {
@@ -98,6 +102,7 @@ export const footerData = {
         { text: 'Transiscope', href: 'https://transiscope.org/' },
         { text: 'Assemblée virtuelle', href: 'https://virtual-assembly.org/' },
         { text: 'Vhélio', href: 'https://vhelio.org' },
+        { text: 'Les chemins de la transition', href: 'https://lescheminsdelatransition.org' },
         { text: 'Low-tech lab', href: 'https://lowtechlab.org/' },
         { text: 'Hameaux légers', href: 'https://hameaux-legers.org/' },
         { text: 'Monnaie libre', href: 'https://monnaie-libre.fr/' },
