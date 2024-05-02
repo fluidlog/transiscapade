@@ -42,6 +42,10 @@ export const headerData = {
           text: 'Toulouse > Bordeaux',
           href: getPermalink('/itineraires/itineraire4'),
         },
+        {
+          text: 'Bordeaux > Le Mans',
+          href: getPermalink('/itineraires/itineraire5'),
+        },
       ],
     },
     {
